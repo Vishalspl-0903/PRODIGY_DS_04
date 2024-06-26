@@ -4,7 +4,8 @@
 
 This repository contains a task for analyzing and visualizing sentiment patterns in Twitter data. The project includes loading, combining, and analyzing datasets to understand sentiment distributions and sentiment patterns for specific entities.
 
-𝐃𝐚𝐭𝐚𝐬𝐞𝐭
+𝐃𝐚𝐭𝐚𝐬𝐞𝐭:
+
 The project uses two datasets:
 
 twitter_training.csv: The training dataset containing Twitter data.
@@ -17,7 +18,8 @@ entity: The entity mentioned in the tweet.
 sentiment: The sentiment of the tweet (e.g., positive, negative, neutral).
 text: The text of the tweet.
 
-𝐅𝐢𝐥𝐞𝐬
+𝐅𝐢𝐥𝐞𝐬:
+
 task_4.py: The main script that loads, combines, analyzes, and visualizes the datasets.
 
 Installation
