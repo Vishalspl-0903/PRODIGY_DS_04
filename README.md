@@ -9,6 +9,7 @@ This repository contains a task for analyzing and visualizing sentiment patterns
 The project uses two datasets:
 
 twitter_training.csv: The training dataset containing Twitter data.
+
 twitter_validation.csv: The validation dataset containing Twitter data.
 
 Each dataset contains the following columns:
